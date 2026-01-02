@@ -1,6 +1,8 @@
 
 export const NewsBoard = () => {
   return (
-    <div>NewsBoard</div>
+    <div>
+        <H2 className="text-center">Latest <span className="">News</span></H2>
+    </div>
   )
 }
